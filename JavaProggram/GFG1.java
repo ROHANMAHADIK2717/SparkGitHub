@@ -48,4 +48,5 @@ public class GFG1 extends Applet implements Runnable{
 	{
 		g.drawString(display,x,y);
 	}
+	System.out.println("By Rohan Mahadik @ROHANMAHADIK2717");
 }
